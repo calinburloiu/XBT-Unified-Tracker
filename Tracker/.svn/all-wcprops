@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/redmine/unified-tracker/!svn/ver/166/trunk/xbt/Tracker
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/redmine/unified-tracker/!svn/ver/90/trunk/xbt/Tracker/stdafx.h
+END
+connection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/redmine/unified-tracker/!svn/ver/54/trunk/xbt/Tracker/connection.cpp
+END
+stats.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/redmine/unified-tracker/!svn/ver/3/trunk/xbt/Tracker/stats.h
+END
+make.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/redmine/unified-tracker/!svn/ver/3/trunk/xbt/Tracker/make.sh
+END
+server.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/redmine/unified-tracker/!svn/ver/166/trunk/xbt/Tracker/server.cpp
+END
+XBT Tracker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/redmine/unified-tracker/!svn/ver/66/trunk/xbt/Tracker/XBT%20Tracker.cpp
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/redmine/unified-tracker/!svn/ver/119/trunk/xbt/Tracker/config.h
+END
+epoll.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/redmine/unified-tracker/!svn/ver/3/trunk/xbt/Tracker/epoll.cpp
+END
+xbt_tracker.conf
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/redmine/unified-tracker/!svn/ver/7/trunk/xbt/Tracker/xbt_tracker.conf
+END
+tcp_listen_socket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/redmine/unified-tracker/!svn/ver/12/trunk/xbt/Tracker/tcp_listen_socket.cpp
+END
+tracker_input.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/redmine/unified-tracker/!svn/ver/3/trunk/xbt/Tracker/tracker_input.h
+END
+XBT Tracker.sln
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/redmine/unified-tracker/!svn/ver/3/trunk/xbt/Tracker/XBT%20Tracker.sln
+END
+client.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/redmine/unified-tracker/!svn/ver/12/trunk/xbt/Tracker/client.h
+END
+udp_listen_socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/redmine/unified-tracker/!svn/ver/12/trunk/xbt/Tracker/udp_listen_socket.h
+END
+transaction.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/redmine/unified-tracker/!svn/ver/164/trunk/xbt/Tracker/transaction.cpp
+END
+xbt_tracker.sql
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/redmine/unified-tracker/!svn/ver/5/trunk/xbt/Tracker/xbt_tracker.sql
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/redmine/unified-tracker/!svn/ver/3/trunk/xbt/Tracker/COPYING
+END
+stdafx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/redmine/unified-tracker/!svn/ver/3/trunk/xbt/Tracker/stdafx.cpp
+END
+XBT Tracker.rc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/redmine/unified-tracker/!svn/ver/3/trunk/xbt/Tracker/XBT%20Tracker.rc
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/redmine/unified-tracker/!svn/ver/3/trunk/xbt/Tracker/resource.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/redmine/unified-tracker/!svn/ver/3/trunk/xbt/Tracker/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/redmine/unified-tracker/!svn/ver/93/trunk/xbt/Tracker/Makefile
+END
+xbt_tracker.conf.default
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/redmine/unified-tracker/!svn/ver/3/trunk/xbt/Tracker/xbt_tracker.conf.default
+END
+connection.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/redmine/unified-tracker/!svn/ver/5/trunk/xbt/Tracker/connection.h
+END
+config.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/redmine/unified-tracker/!svn/ver/66/trunk/xbt/Tracker/config.cpp
+END
+xbt_tracker2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/redmine/unified-tracker/!svn/ver/141/trunk/xbt/Tracker/xbt_tracker2.sql
+END
+tracker_input.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/redmine/unified-tracker/!svn/ver/3/trunk/xbt/Tracker/tracker_input.cpp
+END
+server.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/redmine/unified-tracker/!svn/ver/158/trunk/xbt/Tracker/server.h
+END
+udp_listen_socket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/redmine/unified-tracker/!svn/ver/12/trunk/xbt/Tracker/udp_listen_socket.cpp
+END
+client.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/redmine/unified-tracker/!svn/ver/3/trunk/xbt/Tracker/client.cpp
+END
+XBT Tracker.nsi
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/redmine/unified-tracker/!svn/ver/3/trunk/xbt/Tracker/XBT%20Tracker.nsi
+END
+epoll.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/redmine/unified-tracker/!svn/ver/3/trunk/xbt/Tracker/epoll.h
+END
+tcp_listen_socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/redmine/unified-tracker/!svn/ver/12/trunk/xbt/Tracker/tcp_listen_socket.h
+END
+copying
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/redmine/unified-tracker/!svn/ver/5/trunk/xbt/Tracker/copying
+END
+xbt_tracker
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/redmine/unified-tracker/!svn/ver/159/trunk/xbt/Tracker/xbt_tracker
+END
+XBT Tracker.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/redmine/unified-tracker/!svn/ver/3/trunk/xbt/Tracker/XBT%20Tracker.vcproj
+END
+transaction.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/redmine/unified-tracker/!svn/ver/158/trunk/xbt/Tracker/transaction.h
+END

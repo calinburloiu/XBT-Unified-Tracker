@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/redmine/unified-tracker/!svn/ver/6/trunk/xbt/misc/sql
+END
+sql_result.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/redmine/unified-tracker/!svn/ver/3/trunk/xbt/misc/sql/sql_result.h
+END
+database.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/redmine/unified-tracker/!svn/ver/6/trunk/xbt/misc/sql/database.cpp
+END
+sql_query.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/redmine/unified-tracker/!svn/ver/6/trunk/xbt/misc/sql/sql_query.cpp
+END
+database.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/redmine/unified-tracker/!svn/ver/6/trunk/xbt/misc/sql/database.h
+END
+sql_query.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/redmine/unified-tracker/!svn/ver/3/trunk/xbt/misc/sql/sql_query.h
+END
+sql_result.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/redmine/unified-tracker/!svn/ver/3/trunk/xbt/misc/sql/sql_result.cpp
+END

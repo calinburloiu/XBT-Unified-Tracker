@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/redmine/unified-tracker/!svn/ver/3/trunk/xbt/misc/windows
+END
+ETSLayout.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/redmine/unified-tracker/!svn/ver/3/trunk/xbt/misc/windows/ETSLayout.h
+END
+browse_for_directory.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/redmine/unified-tracker/!svn/ver/3/trunk/xbt/misc/windows/browse_for_directory.h
+END
+nt_service.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/redmine/unified-tracker/!svn/ver/3/trunk/xbt/misc/windows/nt_service.cpp
+END
+nt_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/redmine/unified-tracker/!svn/ver/3/trunk/xbt/misc/windows/nt_service.h
+END
+ETSLayout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/redmine/unified-tracker/!svn/ver/3/trunk/xbt/misc/windows/ETSLayout.cpp
+END
+browse_for_directory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/redmine/unified-tracker/!svn/ver/3/trunk/xbt/misc/windows/browse_for_directory.cpp
+END

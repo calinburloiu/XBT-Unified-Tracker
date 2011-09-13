@@ -1,0 +1,6 @@
+XBT Unified Tracker is an open-source implementation by Călin-Andrei Burloiu of the TSUP protocol, described here [1], in XBT Tracker, developed by Olaf van der Spek [2]. Detailed information about the protocol and this implementation can be found in the this [3] document written in Romanian.
+
+
+[1] http://www.scribd.com/doc/64792197/Design-and-Implementation-of-a-BitTorrent-Tracker-Overlay-for-Swarm-Uni%EF%AC%81cation
+[2] http://xbtt.sourceforge.net/tracker/
+[3] http://www.scribd.com/doc/48122907/Protocol-de-Unificare-a-Tracker-elor-BitTorrent
